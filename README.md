@@ -13,7 +13,6 @@ I am a ✨ _Full Stack Developer_ ✨.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-(https://github-readme-stats.vercel.app/api?username=MGhufranKhalil) 
+[![M Ghufran Khalil's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MGhufranKhalil&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
